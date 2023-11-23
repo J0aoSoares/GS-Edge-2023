@@ -1,0 +1,20 @@
+{
+  "name": "pulse",
+  "author": "João Soares",
+  "pins": [
+    "VCC",
+    "GND",
+    "",
+    "PULSE"
+  ],
+  "controls": [
+    {
+      "id": "frequencia",
+      "label": "Frequencia",
+      "type": "range",
+      "min": 0,
+      "max": 220,
+      "step": 1
+    }
+  ]
+}
