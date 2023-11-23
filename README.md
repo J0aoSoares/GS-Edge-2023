@@ -1,6 +1,6 @@
 # GS-Edge-2023
 # Integrantes
-João Victor Sores Rodrigues
+João Victor Sores Rodrigues RM551419
 
 # Projeto
 O MoodMate foi criado para tratar mais da saúde mental da pessoa, um projeto aonde a pessoa possa compartilhar o que sente e ter auxílio de profissionais da área como terapeutas e psicólogos, fazendo com que não tenha tanta dificuldade em achar tais profissionais e também que resolva seus problemas psicológicos sem sair de casa, porém é necessário também ter uma manutenção do seu coração, visto que um pico de ansiedade por exemplo pode causar uma arritmia incoveniente.
